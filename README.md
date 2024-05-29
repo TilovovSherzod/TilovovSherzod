@@ -1,7 +1,6 @@
 - 👋 Hi, I’m TilovovSherzod
 - 👀 I’am interested in programming.
 - 🌱 I’am currently learning "Python" programming language.
-- 💞️ I’m looking to collaborate on ...
 - 📫 I want to work together and collaborate with my programming brothers and sisters.
 
 <!---
